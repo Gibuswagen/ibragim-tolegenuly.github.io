@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-# About Me
 
 My name is Ibragim. I am Masters student at HKUST.
 
