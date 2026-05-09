@@ -1,0 +1,7 @@
+title: "Ibragim's HCI Portfolio"
+description: "Personal portfolio and HCI project diary"
+theme: minima
+
+header_pages:
+  - about.md
+  - diary.md
